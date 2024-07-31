@@ -50,7 +50,7 @@ To get a local copy up and running follow these simple example steps.
 #### Clone this repository
 
 ```bash
-$ git clone git@github.com:AnselemOdims/Bookstore.git
+$ git clone git@github.com:nastehacali/Bookstore.git
 $ cd Bookstore
 ```
 #### Run project
